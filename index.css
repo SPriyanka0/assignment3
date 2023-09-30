@@ -1,0 +1,50 @@
+* {
+    padding: auto;
+    margin: auto;
+
+}
+
+.aboutBody {
+    background-color: black;
+    color: aliceblue;
+}
+
+.contactBody{
+    background-color: black;
+    color: aliceblue;
+}
+
+.aboutcredits {
+    color: darkgray;
+}
+
+.aboutParagraph {
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+}
+.contacts{
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+    font-size: 40px;
+}
+
+
+.indexBody {
+    background-color: black;
+    color: aliceblue;
+}
+
+.homeParagraph {
+    padding: 60px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.menuDiv{
+    padding: 60px;
+    text-align: center;
+    font-size: 30px; 
+}
